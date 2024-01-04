@@ -5,7 +5,7 @@ qml 练习项目  api 使用网易云
 
 #### Banner
 
-![banner](D:\sample_music\sample_music\images\banner.png)
+![banner](\images\banner.png)
 
 
 
