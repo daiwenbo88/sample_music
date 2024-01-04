@@ -15,11 +15,11 @@ qml 练习项目  api 使用网易云
 
 
 
-![playlist](D:\sample_music\sample_music\images\playlist.png)
+![playlist](./images/playlist.png)
 
 
 
 #### 播放详情
 
-![play-detail](D:\sample_music\sample_music\images\play-detail.png)
+![play-detail](./images/play-detail.png)
 
